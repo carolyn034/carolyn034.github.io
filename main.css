@@ -1,5 +1,9 @@
-a {
-text-decoration: none;
+/************************************
+GENERAL
+*************************************/
+
+body {
+  font-family: 'Old Standard TT', serif;
 }
 
 #wrapper {
@@ -8,35 +12,116 @@ text-decoration: none;
   padding: 0 5%;
 }
 
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+/************************************
+HEADING
+*************************************/
+
 #logo {
   text-align: center;
   margin: 0;
 }
 
-a {
-  color: #6ab47b;
+h1 {
+  font-family: 'Lato', sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
 }
 
-header {
-  background: #6ab47b;
-  border-color: #599a68;
+h2 {
+  font-size: 0.75em;
+  margin: -5px 0 0;
+  font-weight: normal;
 }
 
-h1, h2 {
-   color: #fff;
-}
 
+
+/************************************
+NAVIGATION
+*************************************/
 nav {
-   background: #599a68;
+  text-align: center;
+  padding: 10px 0;
+  margin: 20px 0 0;
 }
-nav a, nav a:visited {
-   color: #fff;
+
+
+
+/************************************
+FOOTER
+*************************************/
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  padding-top: 50px;
+  color: #ccc;
 }
-nav a.selected, nav a:hover {
-   color: #32673f;
+
+
+
+/************************************
+PAGE: MINDFULNESS IN ACTION
+*************************************/
+
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
+
+#gallery li {
+  float: left;
+  width: 45%;
+  margin: 2.5%
+  background-color: #f9e4ad;
+  color: #723147;
+}
+
+
+
+/************************************
+COLORS
+*************************************/
+
 /* site body */
 body {
    background-color: #fff;
    color: #999;
+}
+
+/* purple header */
+header {
+  background: #723147;
+}
+
+/* nav background on mobile devices */
+nav {
+   background: #723147;
+}
+
+/* logo text */
+h1, h2 {
+   color: #fff;
+}
+/* links */
+a {
+  color: #723147;
+}
+
+/* colour for nav link */
+nav a, nav a:visited {
+   color: #fff;
+}
+/* selected nav link */
+nav a.selected, nav a:hover {
+   color: #f9e4ad;
 }

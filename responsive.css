@@ -42,9 +42,9 @@
   *************************************/
     nav {
       background: none;
-      float: center;
+      float: right;
       font-size: 1.125em;
-      text-align: center;
+      text-align: right;
       width: 45%;
     }
 

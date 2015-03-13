@@ -139,6 +139,25 @@ ABOUT
   border-radius: 5px;
 }
 
+
+
+/************************************
+CONTACT
+*************************************/
+
+.contact-info {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.contact-info li.phone a {
+  background-image: url('/Images/phone.png');
+}
+
+
+
 /************************************
 COLORS
 *************************************/

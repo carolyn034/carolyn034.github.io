@@ -116,7 +116,7 @@ PAGE: MINDFULNESS IN ACTION
 #gallery li {
   float: left;
   width: 45%;
-  margin: 2.5%
+  margin: 2.5%;
   background-color: #f9e4ad;
   color: #723147;
 }
@@ -124,7 +124,7 @@ PAGE: MINDFULNESS IN ACTION
 #gallery li a p {
   margin: 0;
   padding: 5%;
-  font-size: 0.75em;
+  font-size: 1.15em;
   color: #723147;
 }
 

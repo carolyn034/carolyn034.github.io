@@ -58,7 +58,15 @@
   PAGE: MINDFULNESS IN ACTION
   *************************************/
 
-    #gallery li:nth-child(3n) {
+    #gallery li:nth-child(4n) {
+      clear: left;
+    }
+
+    #gallery li:nth-child(6n) {
+      clear: right;
+    }
+
+    #gallery li:nth-child(7n) {
       clear: right;
     }
 

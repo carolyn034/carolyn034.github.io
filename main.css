@@ -136,6 +136,7 @@ ABOUT
 
 .profile-photo {
   display: block;
+  float: center;
   max-width: 150px;
   margin: 0 auto 30px;
   border-radius: 5px;

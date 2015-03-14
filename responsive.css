@@ -66,16 +66,4 @@
       clear: right;
     }
 
-    #gallery li:nth-child(7n) {
-      clear: left;
-    }
-
-    #gallery li:nth-child(8n) {
-      clear: center;
-    }
-
-    #gallery li:nth-child(9n) {
-      clear: right;
-    }
-
   }

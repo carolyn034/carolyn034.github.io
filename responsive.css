@@ -67,7 +67,7 @@
     }
 
     #gallery li:nth-child(7n) {
-      clear: right;
+      clear: left;
     }
 
   }

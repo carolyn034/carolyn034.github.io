@@ -53,4 +53,13 @@
       font-size: 1.5em;
       margin-bottom: 20px;
     }
+
+     /************************************
+  PAGE: MINDFULNESS IN ACTION
+  *************************************/
+
+    #gallery li:nth-child(3n) {
+      clear: right;
+    }
+
   }

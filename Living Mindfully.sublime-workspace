@@ -51,7 +51,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3790,
+				"buffer_size": 3115,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,7 +67,7 @@
 			"file": "main.css",
 			"settings":
 			{
-				"buffer_size": 2838,
+				"buffer_size": 2855,
 				"line_ending": "Unix"
 			}
 		},
@@ -75,7 +75,7 @@
 			"file": "about.html",
 			"settings":
 			{
-				"buffer_size": 2325,
+				"buffer_size": 2336,
 				"line_ending": "Unix"
 			}
 		},
@@ -83,7 +83,7 @@
 			"file": "responsive.css",
 			"settings":
 			{
-				"buffer_size": 1068,
+				"buffer_size": 1200,
 				"line_ending": "Unix"
 			}
 		},
@@ -164,20 +164,22 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 3790,
+						"buffer_size": 3115,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								373,
-								418
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 1409.0,
@@ -218,15 +220,15 @@
 					"file": "main.css",
 					"settings":
 					{
-						"buffer_size": 2838,
+						"buffer_size": 2855,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2250,
-								2250
+								0,
+								0
 							]
 						],
 						"settings":
@@ -246,15 +248,15 @@
 					"file": "about.html",
 					"settings":
 					{
-						"buffer_size": 2325,
+						"buffer_size": 2336,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								418,
-								418
+								0,
+								0
 							]
 						],
 						"settings":
@@ -274,20 +276,22 @@
 					"file": "responsive.css",
 					"settings":
 					{
-						"buffer_size": 1068,
+						"buffer_size": 1200,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								595,
-								595
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 603.0,

@@ -209,3 +209,19 @@ nav a, nav a:visited {
 nav a.selected, nav a:hover {
    color: #f9e4ad;
 }
+
+/* code for jQuery */
+#overlay {
+  background:#fff;
+  width:100%;
+  height:100%;
+  position: absolute;
+  top:0;
+  left: 0;
+  display: none;
+  text-align: center;
+}
+
+#overlay img {
+  margin-top: 10%;
+}

@@ -88,6 +88,15 @@
 			}
 		},
 		{
+			"file": "/Users/carolynrussell/Library/Application Support/Sublime Text 2/Packages/User/safari.preview.sublime-build",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Unix",
+				"name": "untitled.sublime-build"
+			}
+		},
+		{
 			"file": "contact.html",
 			"settings":
 			{
@@ -96,7 +105,7 @@
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/User/safari.preview.sublime-build",
 	"command_palette":
 	{
 		"height": 0.0,
@@ -120,6 +129,7 @@
 	},
 	"file_history":
 	[
+		"/Users/carolynrussell/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/carolynrussell/Downloads/img/facebook-wrap.png",
 		"/Users/carolynrussell/devacademy/carolyn034.github.io/main.css"
 	],
@@ -156,7 +166,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -172,7 +182,7 @@
 						[
 							[
 								0,
-								0
+								3115
 							]
 						],
 						"settings":
@@ -182,7 +192,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1409.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -294,13 +304,39 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 603.0,
+						"translation.y": 751.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
+					"file": "/Users/carolynrussell/Library/Application Support/Sublime Text 2/Packages/User/safari.preview.sublime-build",
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "contact.html",
 					"settings":
 					{
@@ -361,6 +397,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
 	"replace":
 	{
 		"height": 0.0
